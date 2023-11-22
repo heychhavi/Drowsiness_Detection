@@ -1,5 +1,5 @@
 # Drowsiness_Detection
-
+Detect if driver is drowsy or not while driving
 For drowsiness detection follow the steps:
 
 Installation process
